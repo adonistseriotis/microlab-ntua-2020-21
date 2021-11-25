@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Micro/risc"
+		},
+		{
+			"name": "2",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"type_traits": "c"
+		}
+	}
+}
